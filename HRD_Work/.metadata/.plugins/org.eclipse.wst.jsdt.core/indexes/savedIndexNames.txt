@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\user\Desktop\HRD_Work\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4022969621.index
+2967303614.index
+3904077850.index
+657506093.index
+52893246.index
+2290821859.index

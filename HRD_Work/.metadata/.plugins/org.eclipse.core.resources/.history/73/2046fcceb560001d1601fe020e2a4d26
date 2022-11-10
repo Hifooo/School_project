@@ -1,0 +1,49 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<%@ include file="./header.jsp" %>
+	
+		<h2>홈쇼핑 회원정보 수정</h2>
+		<table border="1px">
+			<tr>
+				<th>회원번호</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<th>회원 성명</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<th>회원전화</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<th>회원주소</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<th>가입일자</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<th>고객등급</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<th>도시코드</th>
+				<td><input type="text"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="수정"><a href="#">조회</a></td>
+			</tr>
+		</table>
+	
+	<%@ include file="./footer.jsp" %>
+</body>
+</html>
